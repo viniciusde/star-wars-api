@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: star_wars
+      host: mongo_db
+      port: 27017
+
+springdoc:
+  api-docs:
+    path: /starwars-docs
