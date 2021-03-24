@@ -15,9 +15,14 @@ May the force be with you.
 * mongodb
 * Docker
 
-## Usage
+### Usage deployed
+```
+https://swars-api.herokuapp.com/swagger-ui.html
+```
 
-### building
+###Usage local
+
+### building 
 ```
 mvn clean package
 ```
