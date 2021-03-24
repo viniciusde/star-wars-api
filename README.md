@@ -8,6 +8,7 @@ Delete a planet if you need to.
 
 May the force be with you.
 
+
 ## Tools
 * java
 * maven  
@@ -16,9 +17,8 @@ May the force be with you.
 * Docker
 
 ### Usage deployed
-```
+
 https://swars-api.herokuapp.com/swagger-ui.html
-```
 
 ### Usage local
 
@@ -32,6 +32,6 @@ mvn clean package
 docker-compose up
 ```
 ### Swagger Documentation - Open API 3.0
-```
+...
 http://localhost:8080/swagger-ui.html
-```
+...
