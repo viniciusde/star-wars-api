@@ -26,12 +26,11 @@ https://swars-api.herokuapp.com/swagger-ui.html
 ```
 mvn clean package
 ```
-
 ### Running star wars api + mongodb
 ```
 docker-compose up
 ```
 ### Swagger Documentation - Open API 3.0
-...
+```
 http://localhost:8080/swagger-ui.html
-...
+```
